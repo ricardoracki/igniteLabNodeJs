@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Projeto desenvolvido em 18/12/2022 no evento Ignite Lab da RocketSeat.
 
 ## Installation
 
